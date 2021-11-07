@@ -1,2 +1,8 @@
-# Imagens
-Minhas Logos
+<div align="center">
+  <a href="https://github.com/f50kdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f50kdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f50kdev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+  
